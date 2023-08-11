@@ -1,0 +1,17 @@
+.heading{
+    background-color: blueviolet;
+}
+
+ul{
+    border: 1px solid;
+    padding: 10px;
+}
+
+ul li{
+    color: chocolate;
+    font-weight: 700;
+}
+
+ul li:hover{
+    background-color: chartreuse;
+}
